@@ -93,7 +93,7 @@ npm run deploy
 npm run mint
 ```
 
-### 8. Finsihed
+### 8. Finished
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address into testnet dashboard
